@@ -29,8 +29,8 @@
 
 ### 📈 Mis estadísticas
 
-![León's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+![León's GitHub stats](https://github-readme-stats.vercel.app/api?username=danleonh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danleonh&layout=compact&theme=radical)
 
 
 ### 🌐 Conecta conmigo
